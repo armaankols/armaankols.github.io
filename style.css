@@ -24,10 +24,6 @@ contact {
     padding: 20px;
 }
 
-a:hover {
-    color: teal;
-}
-
 nav ul {
     margin: 0;
     padding: 0;
@@ -73,6 +69,7 @@ a {
 }
 
 a:hover {
+    color: teal;
     text-decoration: underline;
     background-color: #f7f7f7;
     padding: 20px;
